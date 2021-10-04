@@ -9,7 +9,7 @@ public class HelloWorldLiush {
         System.out.println("lalalalalla");
         System.out.println("lalalalalla");
         System.out.println("lalalalalla");
-        System.out.println("lalalalalla");
+        
 
     }
 }
