@@ -7,5 +7,9 @@ public class HelloWorldLiush {
     public static  void  main(String[] args ){
         System.out.println("Hello Vistula Liush");
         System.out.println("lalalalalla");
+        System.out.println("lalalalalla");
+        System.out.println("lalalalalla");
+        System.out.println("lalalalalla");
+
     }
 }
